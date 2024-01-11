@@ -8,14 +8,14 @@ Project made to learn JavaScript with basic Issue Tracker app using:
 
 # Tech:
 
-javascript
-bootstrap
+- javascript
+- Bootstrap
 
 # Requirement:
 
-Create UI
-add todo
-delete todo
-search todo
-filter todo
-order by todo
+- Create UI
+- add todo
+- delete todo
+- search todo
+- filter todo
+- order by todo
